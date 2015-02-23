@@ -16,7 +16,7 @@ namespace PersonAdmin
     {
         static void Main()
         {
-            A x;
+            A x = new A();
             A y = x;
             Test(x);
             Console.WriteLine(x.x);

@@ -9,7 +9,7 @@ namespace PersonAdminLib
 {
     class PersonRegister
     {
-        private List<Person> personList;
+        private List<Person> personList = new List<Person>();
         private int Count
         {
             get
