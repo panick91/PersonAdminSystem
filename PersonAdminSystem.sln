@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonAdmin", "PersonAdmin\PersonAdmin.csproj", "{8086B56C-4041-43E9-9532-0416FC4E9C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonAdminLib", "PersonAdminLib\PersonAdminLib.csproj", "{17EE042D-082B-48A9-B972-4F4831D49223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8086B56C-4041-43E9-9532-0416FC4E9C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8086B56C-4041-43E9-9532-0416FC4E9C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8086B56C-4041-43E9-9532-0416FC4E9C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8086B56C-4041-43E9-9532-0416FC4E9C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EE042D-082B-48A9-B972-4F4831D49223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EE042D-082B-48A9-B972-4F4831D49223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EE042D-082B-48A9-B972-4F4831D49223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EE042D-082B-48A9-B972-4F4831D49223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
